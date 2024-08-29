@@ -1,2 +1,3 @@
 # dsci-100-project_template
-Template project repository for DSCI-100
+
+Left-handed tennis players were hypothesized to possess superior skills compared to their right-handed counterparts (Holtzen, 2000). The argument suggests that left-handed players, with enhanced spatial, motor, and attentional functions, can strategically serve better. To investigate this hypothesis, we analyze data from Ultimate Tennis Statistics' Player Stats for the Top 500 Players, focusing on variables such as handedness, best rank, prize money, best elo rank, peak elo rating, titles, and GOAT rank. We exclude personal information, social media, coach details, and other variables irrelevant to our research question. Additionally, variables like masters, grand slams, Davis cups, team cups, Olympics, weeks at No. 1, tour finals, current rank, and current elo rating are omitted due to limited data or potential misrepresentation for retired players.
